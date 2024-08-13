@@ -89,6 +89,6 @@
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.5.3",
     "vite": "^5.3.4",
-    "vitest": "^2.0.3"
+    "vitest": "^2.0.4"
   }
 }
