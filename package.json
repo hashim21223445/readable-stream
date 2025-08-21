@@ -84,7 +84,7 @@
     "concurrently": "^8.2.2",
     "copy-files-from-to": "^3.11.0",
     "lint-staged": "^15.5.2",
-    "playwright": "^1.49.1",
+    "playwright": "^1.54.1",
     "prettier": "^3.3.3",
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.8.3",
