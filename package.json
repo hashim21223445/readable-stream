@@ -79,7 +79,7 @@
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@vitest/browser": "^2.0.4",
-    "@vitest/coverage-istanbul": "^3.2.4",
+    "@vitest/coverage-istanbul": "^4.0.0",
     "@vitest/ui": "^3.2.4",
     "concurrently": "^8.2.2",
     "copy-files-from-to": "^3.11.0",
